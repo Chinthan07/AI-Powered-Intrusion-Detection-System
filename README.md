@@ -27,4 +27,4 @@ IntelliGuard IDS is a flow-based network intrusion detection system that classif
 5. **Output & Reporting** — The final classification, along with the confidence score, is displayed on the dashboard and can be exported as CSV or PDF for further analysis.
 
 ## References (Dataset)
-Canadian Institute for Cybersecurity (2018), "CICIDS2018 Dataset" — https://www.unb.ca/cic/datasets/ids2018.html
+Canadian Institute for Cybersecurity (2018), "CICIDS2018 Dataset" — https://www.unb.ca/cic/datasets/ids-2018.html
