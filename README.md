@@ -25,3 +25,6 @@ IntelliGuard IDS is a flow-based network intrusion detection system that classif
 3. **Model Prediction** — The scaled features are passed to a trained Random Forest classifier, which outputs a probability/confidence score for the flow being malicious.
 4. **Hybrid Decision Engine** — If the model's confidence is high enough, its prediction is accepted directly. Otherwise, the engine evaluates behavioural heuristic rules on the raw flow data; if enough rules are triggered, the flow is still flagged as malicious.
 5. **Output & Reporting** — The final classification, along with the confidence score, is displayed on the dashboard and can be exported as CSV or PDF for further analysis.
+
+## References (Dataset)
+Canadian Institute for Cybersecurity (2018), "CICIDS2018 Dataset" — https://www.unb.ca/cic/datasets/ids2018.html
