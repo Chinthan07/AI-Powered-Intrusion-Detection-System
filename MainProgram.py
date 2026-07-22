@@ -59,8 +59,8 @@ SELECTED_COLUMNS = [
     'Label'
 ]
 
-DATASET_DIR = r"D:\MSIS Imp Files\AI - IDS\Files\Nov-Dec-Jan-Feb\Development\Datasets\PARAQUET"
-CAPTURE_DIR = r"D:\MSIS Imp Files\AI - IDS\Files\Nov-Dec-Jan-Feb\Development\captured_data"
+DATASET_DIR = r" " #Enter Dataset Directory
+CAPTURE_DIR = r" " #Enter the Directory for saving Live Data Capture
 os.makedirs(CAPTURE_DIR, exist_ok=True)
 
 
