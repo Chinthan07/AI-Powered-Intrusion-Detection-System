@@ -6,6 +6,15 @@ AI-powered Intrusion Detection System using a Random Forest classifier trained o
 
 IntelliGuard IDS is a flow-based network intrusion detection system that classifies network traffic as **Benign** or **Malicious**. Rather than relying on traditional signature matching, it uses a Random Forest classifier trained on the CICIDS2018 benchmark dataset to learn statistical patterns from network flow behaviour, paired with a hybrid rule-based layer to improve detection reliability. The system supports both continuous live monitoring and offline analysis of previously captured traffic, all accessible through a single interactive web interface.
 
+<p align="center">
+  <img src="images/home.png" width="45%">
+  <img src="images/training.png" width="45%">
+</p>
+<p align="center">
+  <img src="images/live_detection.png" width="45%">
+  <img src="images/offline_detection.png" width="45%">
+</p>
+
 ## Key Features
 
 - **Real-time intrusion detection** — captures live network traffic via Scapy and classifies flows as they occur
