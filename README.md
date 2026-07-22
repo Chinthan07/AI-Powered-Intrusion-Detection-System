@@ -11,7 +11,7 @@ IntelliGuard IDS is a flow-based network intrusion detection system that classif
   <img src="Images/training.png" width="45%">
 </p>
 <p align="center">
-  <img src="Images/Live Detection.png" width="45%">
+  <img src="Images/Live_Detection.png" width="45%">
   <img src="Images/Offline_Detection.png" width="45%">
 </p>
 
